@@ -2,6 +2,10 @@
 
 TransformerベースのosuのAim予測AIモデル
 
+
+https://github.com/user-attachments/assets/94520d29-bf83-4668-bb25-024d008b4dcc
+
+
 ## セットアップ
 
 ```bash
